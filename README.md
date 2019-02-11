@@ -4,7 +4,7 @@ Convert text to binary (011111....)
 
 ## Why?
 
-I was having some free time and was in fun mood. i amd my friend used it to chat on whatsapp group.
+I was having some free time and was in fun mood. I and my friend used it to chat on whatsapp group.
 
 ### Download binaries
 
