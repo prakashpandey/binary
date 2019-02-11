@@ -12,7 +12,7 @@ I was some time and was in fun mood. i amd my friend used it to chat on whatsapp
 
 ### Build natively
 
-- `go get -u clone github.com/prakashpandey/binary`
+- `go get -u github.com/prakashpandey/binary`
 
 - `cd binary`
 
@@ -26,6 +26,6 @@ I was some time and was in fun mood. i amd my friend used it to chat on whatsapp
 
 - `export PATH=$PATH:$(pwd)`
 
+## LICENSE
 
-
-
+`The Unlicense`, please visit [LICENSE](LICENSE) for more information.
